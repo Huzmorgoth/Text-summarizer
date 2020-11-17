@@ -1,0 +1,6 @@
+bert-extractive-summarizer
+spacy
+transformers
+torch
+tensorflow
+streamlit
